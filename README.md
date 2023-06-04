@@ -30,7 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivatmax&show_icons=true&locale=en" alt="shivatmax" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivatmax&" alt="shivatmax" /></p>
-<img align="right" alt="Coding" width="350" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivatmax" alt="shivatmax" /></a> </p>
 
 
