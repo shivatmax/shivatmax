@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" width="1000" height="300" src="https://selectec.com/wp-content/uploads/2016/03/developer_banner.jpg">
 <h1 align="center">Hi 👋, I'm Shiv Awasthi</h1>
 <h3 align="center">Software Engineer, Cyber Security Specialist & Creator</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivatmax&label=Months%20View%20Count&color=0e98b4&style=flat" alt="shivatmax" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
