@@ -1,4 +1,3 @@
-<img align="center" alt="Coding" width="1000" height="300" src="https://selectec.com/wp-content/uploads/2016/03/developer_banner.jpg">
 <h1 align="center">Hi 👋, I'm Shiv Awasthi</h1>
 <h3 align="center">Software Engineer, Cyber Security Specialist & Creator</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivatmax&label=Months%20View%20Count&color=0e98b4&style=flat" alt="shivatmax" /> </p>
