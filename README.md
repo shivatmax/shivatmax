@@ -22,7 +22,7 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy building connections , so feel free to drop a greeting. <b>I would be delighted to get to know you better!<b>😊</em>
 <p >
-  <a target="_blank"href="https://linkedin.com/in/shiv-awasthi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>     
+  <a target="_blank"href="https://linkedin.com/in/shivawasthi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>     
   <a href="mailto: awasthishiv0987@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>   
 </p>
 
